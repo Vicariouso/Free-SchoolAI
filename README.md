@@ -1,44 +1,31 @@
 # Free-SchoolAI
 
-Free prompts for UK school staff. Not the DfE free school programme — just the price.
+Free prompts for UK school staff. Not the DfE free school programme. Not the commercial product SchoolAI. Just the price.
 
-Copy one. Paste it into Ollama, LM Studio, or any chat your DPO has already approved. A person still owns the draft.
+595 jobs. Early years through sixth form, plus the leadership desk. The jobs are in this repo, as plain text.
 
-595 jobs. Early years through sixth form, plus the leadership desk.
-
-**Share this repo:** https://github.com/Vicariouso/Free-SchoolAI
-
-The catalogue used by the site is public here:
-
-https://github.com/Vicariouso/joshuamangas-com/tree/main/app/open-desk
+Copy button on the site: https://joshuamangas.com/open-desk/
 
 ## Use a prompt
 
-1. Copy [preamble.txt](preamble.txt).
-2. Open a job in [`items-a.ts` … `items-k.ts`](https://github.com/Vicariouso/joshuamangas-com/tree/main/app/open-desk).
-3. Add:
+1. Open the job file. Example: [jobs/009-whole-school-attendance-plan.txt](jobs/009-whole-school-attendance-plan.txt).
+2. Copy from the line `Paste everything below this line.`
+3. Fill in the school context.
+4. Run it on a machine you control, or in a chat your data protection officer has already approved.
+5. A person with the right role checks the draft before it is sent, filed or used in a meeting.
 
-```
-Job: <name>
-
-What good looks like:
-<job>
-```
-
-4. Fill in the school context at the bottom of the preamble.
-5. Run it on a machine you control.
+If the file says `Gate: yes`, do not paste it into a public chat. That job can become a pupil, staff or legal record. A local model is still not the decision-maker.
 
 For names, health, behaviour, safeguarding or HR, keep the work off public tools.
 
-## Rules the prompts already carry
+## What the licence covers
 
-- UK English.
-- Drafts only. Someone with the right role checks before it is sent, filed or used in a meeting.
-- Do not invent pupils, staff, data, inspection grades, papers or mark schemes.
-- For primary, KS3, GCSE and sixth form: paste the programme of study or the specification. The model must not invent a topic list.
+[CC BY 4.0](LICENSE). The licence covers the prompt text in this repo. Use it. Change it. Keep the credit: Free-SchoolAI by Joshua Mangas.
 
-## Licence
+The licence does not cover a school's finished letter, a pupil record, or documents you paste in. Those stay yours.
 
-[CC BY 4.0](LICENSE). Use them. Change them. Keep the credit: Free-SchoolAI by Joshua Mangas.
+These prompts are not Ofsted, DfE, a solicitor or a clinician. They do not hold a duty. Written for England unless the school context says otherwise. Guidance named in a job file is dated. If a newer edition is in force, paste that edition.
 
-These prompts are not Ofsted, DfE, a solicitor or a clinician. They do not hold a duty.
+## Check
+
+`python3 check_catalogue.py` fails if the count, ids, categories or gate banners drift.
