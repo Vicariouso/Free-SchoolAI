@@ -1,0 +1,10 @@
+name: check
+on:
+  push:
+  pull_request:
+jobs:
+  catalogue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 check_catalogue.py

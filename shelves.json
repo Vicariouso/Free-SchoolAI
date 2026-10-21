@@ -1,0 +1,1223 @@
+{
+  "shelves": [
+    {
+      "id": "teaching",
+      "label": "Teaching",
+      "categories": [
+        "Classroom",
+        "Resources",
+        "Primary",
+        "KS3",
+        "GCSE",
+        "Sixth form",
+        "Schemes",
+        "Revision",
+        "Form tutor",
+        "Cover",
+        "Early years"
+      ]
+    },
+    {
+      "id": "pupils",
+      "label": "Pupils and SEND",
+      "categories": [
+        "Pastoral care",
+        "SEND support"
+      ]
+    },
+    {
+      "id": "leading",
+      "label": "Leading a school",
+      "categories": [
+        "This term",
+        "Improvement planning",
+        "Staffing and HR",
+        "Policy and compliance"
+      ]
+    },
+    {
+      "id": "governance",
+      "label": "Governors and trustees",
+      "categories": [
+        "Governors and trustees"
+      ]
+    },
+    {
+      "id": "office",
+      "label": "Office, exams and comms",
+      "categories": [
+        "Letters and messages",
+        "Admin and documents",
+        "Exams office"
+      ]
+    },
+    {
+      "id": "you",
+      "label": "You and your work",
+      "categories": [
+        "You and your work"
+      ]
+    }
+  ],
+  "moments": [
+    {
+      "id": "new-term",
+      "label": "A new term",
+      "blurb": "Induction, first form times, settling in.",
+      "months": [
+        8,
+        9
+      ],
+      "slugs": [
+        "safeguarding-update-briefing",
+        "first-term-for-a-new-colleague",
+        "inset-day-that-earns-its-hours",
+        "form-time-sequence",
+        "new-arrival-in-my-form",
+        "year-7-settling-curriculum",
+        "ks2-to-ks3-bridge",
+        "settling-in-plan-eyfs",
+        "class-routine-reset",
+        "monday-notes-for-staff"
+      ]
+    },
+    {
+      "id": "parents-evening",
+      "label": "Parents' evening",
+      "blurb": "Talking points, notes and the follow-up call.",
+      "months": [
+        10,
+        11,
+        2,
+        3
+      ],
+      "slugs": [
+        "parents-evening-talking-points",
+        "tutor-evening-notes",
+        "sixth-form-parents-evening",
+        "phone-call-home-script",
+        "upset-parent-meeting",
+        "translation-friendly-message",
+        "message-in-a-home-language"
+      ]
+    },
+    {
+      "id": "inclusion-statement",
+      "label": "Inclusion statement",
+      "blurb": "Published by 31 December 2026 in English mainstream schools.",
+      "months": [
+        10,
+        11,
+        12
+      ],
+      "slugs": [
+        "published-inclusion-statement-due-31-december",
+        "inclusive-mainstream-fund-plan",
+        "whole-school-inclusion-approach",
+        "individual-support-plan-note",
+        "map-of-the-support-we-run"
+      ]
+    },
+    {
+      "id": "mocks",
+      "label": "Mock season",
+      "blurb": "Walking talking mocks, marking, the catch-up.",
+      "months": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "slugs": [
+        "walking-talking-mock-plan",
+        "mark-against-a-mark-scheme",
+        "whole-class-feedback",
+        "catch-up-after-poor-mock",
+        "common-mistakes-sheet",
+        "mock-to-exam-scheme",
+        "past-paper-clinic"
+      ]
+    },
+    {
+      "id": "reports",
+      "label": "Report writing",
+      "blurb": "Comment banks, checks and the head's line.",
+      "months": [
+        12,
+        3,
+        6,
+        7
+      ],
+      "slugs": [
+        "primary-report-comment-bank",
+        "ks3-report-comment-bank",
+        "sixth-form-report-comment",
+        "tutor-report-paragraph",
+        "proofreading-report-comments",
+        "report-lines-from-the-head",
+        "headteachers-comment-for-one-pupil"
+      ]
+    },
+    {
+      "id": "recruitment",
+      "label": "Recruiting staff",
+      "blurb": "Advert, pack, shortlist, interview.",
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "slugs": [
+        "advert-for-a-vacancy",
+        "role-profile-and-person-specification",
+        "shortlisting-against-the-person-spec",
+        "candidate-questions-and-model-answers",
+        "a-fair-task-for-candidates",
+        "job-reference-for-a-colleague"
+      ]
+    },
+    {
+      "id": "exams",
+      "label": "Exam season",
+      "blurb": "Briefings, rooms, clashes and the last weekend.",
+      "months": [
+        4,
+        5,
+        6
+      ],
+      "slugs": [
+        "exam-timetable-staff-brief",
+        "candidate-exam-briefing",
+        "invigilator-briefing",
+        "access-arrangements-room-plan",
+        "exam-clash-plan",
+        "six-week-revision-countdown",
+        "last-weekend-plan",
+        "after-paper-debrief",
+        "ks2-test-week-brief"
+      ]
+    },
+    {
+      "id": "transition",
+      "label": "Transition",
+      "blurb": "Handovers to the next teacher, phase or school.",
+      "months": [
+        6,
+        7
+      ],
+      "slugs": [
+        "transition-notes-to-next-teacher",
+        "reception-to-year-one-handover",
+        "year-6-to-year-7-handover",
+        "y11-to-y12-bridge",
+        "moving-between-phases-or-schools",
+        "social-story"
+      ]
+    },
+    {
+      "id": "results",
+      "label": "Results day",
+      "blurb": "Run sheet, staff brief, families and reviews.",
+      "months": [
+        8
+      ],
+      "slugs": [
+        "results-day-logistics",
+        "results-day-comms-pack",
+        "results-day-y13-brief",
+        "review-of-results-parent-note",
+        "ks2-results-parent-note"
+      ]
+    },
+    {
+      "id": "inspection",
+      "label": "The inspection call",
+      "blurb": "The call, the evidence and the subject leaders.",
+      "months": [],
+      "slugs": [
+        "ready-for-the-inspectors-phone-call",
+        "evaluation-area-evidence-map",
+        "two-sided-crib-for-subject-leaders",
+        "briefing-a-subject-leader-for-inspection",
+        "what-our-inspection-data-says",
+        "report-card-next-steps-plan"
+      ]
+    },
+    {
+      "id": "safeguarding",
+      "label": "A safeguarding concern",
+      "blurb": "Every one of these is a record. The DSL leads.",
+      "months": [],
+      "slugs": [
+        "safeguarding-concern-to-dsl",
+        "low-level-concern-note",
+        "lado-referral-holding-note",
+        "online-safety-incident",
+        "what-the-school-does-under-a-cp-plan",
+        "part-time-timetable-review"
+      ]
+    },
+    {
+      "id": "cover",
+      "label": "Cover today",
+      "blurb": "For the cover supervisor and the person who arranged it.",
+      "months": [],
+      "slugs": [
+        "cover-supervisor-day-brief",
+        "how-to-start-a-cover-lesson",
+        "cover-when-no-work-was-left",
+        "cover-work-pack",
+        "when-cover-work-runs-out",
+        "cover-log-for-the-teacher"
+      ]
+    },
+    {
+      "id": "governor-visit",
+      "label": "A governor visit",
+      "blurb": "Plan it, ask well, write it up.",
+      "months": [],
+      "slugs": [
+        "planning-a-governors-school-visit",
+        "safeguarding-link-governor-visit",
+        "sharp-questions-for-the-board-to-ask",
+        "writing-up-a-governors-visit",
+        "what-to-ask-about-the-heads-update"
+      ]
+    },
+    {
+      "id": "hard-day",
+      "label": "A hard day",
+      "blurb": "Critical incident, bereavement, a breach, the weather.",
+      "months": [],
+      "slugs": [
+        "critical-incident-first-hour",
+        "bereavement-community-message",
+        "data-breach-72-hour-log",
+        "cyber-attack-first-steps-and-roles",
+        "severe-weather-decision-note"
+      ]
+    },
+    {
+      "id": "lesson-tomorrow",
+      "label": "Tomorrow's lesson",
+      "blurb": "Plan, resources and the check that it landed.",
+      "months": [],
+      "slugs": [
+        "lesson-plan-for-this-class",
+        "do-now-starter",
+        "explain-it-three-ways",
+        "worked-example-and-faded-practice",
+        "hinge-question",
+        "exit-ticket",
+        "ta-briefing-for-this-lesson"
+      ]
+    },
+    {
+      "id": "workload",
+      "label": "Too much to do",
+      "blurb": "Sort the week and cut what does not matter.",
+      "months": [],
+      "slugs": [
+        "realistic-week",
+        "email-triage",
+        "brain-dump-into-priorities",
+        "saying-no-politely",
+        "what-we-could-stop-doing",
+        "sorting-a-heavy-week"
+      ]
+    }
+  ],
+  "follow_ups": {
+    "show-where-every-figure-came-from": {
+      "label": "Show where every figure came from",
+      "prompt": "Audit your draft against everything in my first message. Make a table of every number, percentage, date, name and quotation in the draft, one per row. For each, copy the exact line from my message it comes from, or write NOT FOUND. Do not skip any. Then list the NOT FOUND items and rewrite only those lines, removing each one or marking it [CHECK]. I will check the table against my source myself."
+    },
+    "fact-or-opinion": {
+      "label": "Fact or opinion?",
+      "prompt": "Go through the draft sentence by sentence. Mark each one FACT (seen, said or documented), OPINION, or UNKNOWN. Rewrite any opinion that reads like a fact."
+    },
+    "what-would-be-challenged": {
+      "label": "What would be challenged?",
+      "prompt": "Read the draft as a parent, a union representative or a reviewer would. What would they challenge? Which lines rely on something I have not given you? Do not decide the outcome."
+    },
+    "cut-it-by-half": {
+      "label": "Cut it by half",
+      "prompt": "Cut the draft to half its length. Keep every decision, date, owner and action. Lose the throat-clearing."
+    },
+    "read-it-as-the-audience": {
+      "label": "Read it as the audience",
+      "prompt": "Read your draft as the person who will receive it. What would worry them, confuse them or make them write back? Rewrite those lines and show me what you changed."
+    },
+    "adapt-for-send-and-eal": {
+      "label": "Adapt for SEND and EAL",
+      "prompt": "Adapt this for pupils with SEND and pupils new to English, from what I told you about the class. Same objective, more access: scaffolds, vocabulary support, chunked instructions. Do not lower the thinking."
+    },
+    "make-the-thinking-harder": {
+      "label": "Make the thinking harder",
+      "prompt": "Add a version for pupils ready for harder thinking. Deeper, not more. Tie it to the same objective."
+    },
+    "quiz-me-on-it": {
+      "label": "Quiz me on it",
+      "prompt": "From this, write a five-question retrieval quiz for next lesson and a three-question exit ticket for this one. Answers on a separate block."
+    },
+    "text-message-version": {
+      "label": "Text message version",
+      "prompt": "Write a text message version of this under 300 characters, and a two-line version for the school app. Same facts, same date."
+    },
+    "translation-friendly-version": {
+      "label": "Translation-friendly version",
+      "prompt": "Rewrite this so a translation tool will handle it well: short sentences, no idioms or school jargon, dates written out in full, one instruction a line."
+    },
+    "what-would-the-board-ask": {
+      "label": "What would the board ask?",
+      "prompt": "List the five questions a careful governor or trustee would ask about this, and where the draft already answers them. Mark the gaps."
+    },
+    "one-page-summary": {
+      "label": "One-page summary",
+      "prompt": "Give me a one-page version for the board: the decision or ask first, then the three facts that matter, then the risks."
+    }
+  },
+  "search": {
+    "synonyms": {
+      "letter": [
+        "letter",
+        "message",
+        "email"
+      ],
+      "email": [
+        "email",
+        "message",
+        "letter"
+      ],
+      "message": [
+        "message",
+        "email",
+        "letter"
+      ],
+      "parent": [
+        "parent",
+        "family",
+        "families",
+        "home"
+      ],
+      "sen": [
+        "send",
+        "sen ",
+        "senco"
+      ],
+      "senco": [
+        "senco",
+        "send"
+      ],
+      "sendco": [
+        "senco",
+        "send"
+      ],
+      "iep": [
+        "support plan",
+        "pupil profile",
+        "send"
+      ],
+      "ofsted": [
+        "inspection",
+        "inspector",
+        "report card",
+        "evaluation area"
+      ],
+      "inspection": [
+        "inspection",
+        "inspector",
+        "report card"
+      ],
+      "sip": [
+        "sip",
+        "school improvement plan"
+      ],
+      "sef": [
+        "sef",
+        "self-evaluation"
+      ],
+      "quiz": [
+        "quiz",
+        "retrieval",
+        "multiple-choice"
+      ],
+      "test": [
+        "test",
+        "quiz",
+        "exam",
+        "assessment"
+      ],
+      "starter": [
+        "starter",
+        "do now"
+      ],
+      "plenary": [
+        "exit ticket",
+        "plenary"
+      ],
+      "ppt": [
+        "slide"
+      ],
+      "powerpoint": [
+        "slide"
+      ],
+      "slides": [
+        "slide"
+      ],
+      "worksheet": [
+        "resource",
+        "task",
+        "worksheet"
+      ],
+      "differentiation": [
+        "adaptive",
+        "scaffold",
+        "stretch",
+        "accessible"
+      ],
+      "differentiate": [
+        "adaptive",
+        "scaffold",
+        "stretch",
+        "accessible"
+      ],
+      "dsl": [
+        "dsl",
+        "safeguarding"
+      ],
+      "safeguarding": [
+        "safeguarding",
+        "kcsie",
+        "dsl",
+        "lado"
+      ],
+      "sats": [
+        "ks2",
+        "sats",
+        "test week"
+      ],
+      "mocks": [
+        "mock"
+      ],
+      "governor": [
+        "governor",
+        "trustee",
+        "board"
+      ],
+      "trustee": [
+        "trustee",
+        "governor",
+        "board"
+      ],
+      "head": [
+        "head",
+        "headteacher"
+      ],
+      "minutes": [
+        "minutes",
+        "notes"
+      ],
+      "absence": [
+        "absence",
+        "attendance"
+      ],
+      "attendance": [
+        "attendance",
+        "absence"
+      ],
+      "behaviour": [
+        "behaviour",
+        "conduct",
+        "incident",
+        "restorative"
+      ],
+      "bullying": [
+        "bullying",
+        "fall-out"
+      ],
+      "eal": [
+        "eal",
+        "language",
+        "translation"
+      ],
+      "translate": [
+        "translat",
+        "language"
+      ],
+      "reference": [
+        "reference"
+      ],
+      "sixth": [
+        "sixth",
+        "a level",
+        "post-16"
+      ],
+      "alevel": [
+        "a level"
+      ],
+      "governance": [
+        "governor",
+        "trustee",
+        "board"
+      ],
+      "pastoral": [
+        "pastoral",
+        "wellbeing",
+        "behaviour"
+      ],
+      "hr": [
+        "staffing",
+        "appraisal",
+        "reference",
+        "recruit"
+      ],
+      "admin": [
+        "admin",
+        "document",
+        "minutes"
+      ],
+      "compliance": [
+        "compliance",
+        "policy",
+        "statutory"
+      ],
+      "improvement": [
+        "improvement",
+        "evaluation",
+        "inspection"
+      ],
+      "principal": [
+        "head",
+        "headteacher"
+      ],
+      "recess": [
+        "break",
+        "lunch",
+        "duty"
+      ],
+      "cafeteria": [
+        "lunch",
+        "dining"
+      ],
+      "canteen": [
+        "lunch",
+        "dining"
+      ],
+      "substitute": [
+        "cover",
+        "supply"
+      ],
+      "supply": [
+        "cover",
+        "supply"
+      ],
+      "counselor": [
+        "pastoral",
+        "wellbeing"
+      ],
+      "counsellor": [
+        "pastoral",
+        "wellbeing"
+      ]
+    },
+    "stop_words": [
+      "to",
+      "a",
+      "an",
+      "the",
+      "for",
+      "of",
+      "and",
+      "in",
+      "on",
+      "my",
+      "with",
+      "about",
+      "i",
+      "need",
+      "write",
+      "help",
+      "me"
+    ]
+  },
+  "fields": {
+    "school": [
+      {
+        "key": "school",
+        "label": "School / trust name",
+        "profileKey": "school"
+      },
+      {
+        "key": "phase",
+        "label": "Phase and type (maintained, academy, special, AP, sixth form, etc.)",
+        "profileKey": "phase"
+      },
+      {
+        "key": "community",
+        "label": "Size, community, any designation (Church of England, Catholic, etc.)",
+        "profileKey": "community"
+      },
+      {
+        "key": "role",
+        "label": "My role",
+        "profileKey": "role"
+      }
+    ],
+    "job": [
+      {
+        "key": "today",
+        "label": "Today's date"
+      },
+      {
+        "key": "audience",
+        "label": "Audience for this draft"
+      },
+      {
+        "key": "tone",
+        "label": "Tone (plain, formal, warm, firm)",
+        "profileKey": "tone"
+      },
+      {
+        "key": "include",
+        "label": "Must include"
+      },
+      {
+        "key": "avoid",
+        "label": "Must avoid"
+      },
+      {
+        "key": "deadline",
+        "label": "When this draft is needed by"
+      },
+      {
+        "key": "facts",
+        "label": "Facts, data, notes or source text",
+        "multiline": true,
+        "hint": "Paste the notes, data or document the draft should be built from."
+      }
+    ],
+    "sets": {
+      "lesson": [
+        {
+          "key": "subject",
+          "label": "Subject",
+          "profileKey": "subject"
+        },
+        {
+          "key": "years",
+          "label": "Year group and class (size, prior attainment, needs; no names)",
+          "profileKey": "years"
+        },
+        {
+          "key": "board",
+          "label": "Exam board and specification code, if any"
+        },
+        {
+          "key": "time",
+          "label": "Lesson length or time available"
+        }
+      ],
+      "early-years": [
+        {
+          "key": "age",
+          "label": "Age range and setting (nursery, Reception, school-based nursery)"
+        },
+        {
+          "key": "group",
+          "label": "Group size and adults"
+        }
+      ],
+      "exams": [
+        {
+          "key": "series",
+          "label": "Exam series and awarding bodies"
+        }
+      ],
+      "governance": [
+        {
+          "key": "board",
+          "label": "Board or committee (local governing body, full governing body, trust board, committee)"
+        },
+        {
+          "key": "meeting",
+          "label": "Meeting or deadline date"
+        }
+      ]
+    }
+  },
+  "preamble": {
+    "start": "You are helping ",
+    "end": " in a school in England produce a first draft.\n\nRules you must keep:\n- The school is in England. Use English law, DfE guidance and the Ofsted framework only. Never apply guidance or terms from Wales, Scotland, Northern Ireland, the United States or anywhere else.\n- Write British English with British spelling (organise, behaviour, programme, practise as a verb), and the terms schools in England use: headteacher, Year 4 or Reception, maths, form tutor, break and lunch, dining hall, parents' evening, school trip, supply or cover teacher, educational psychologist, local authority, governors or trustees, term. Never the American ones: principal, fourth grade, kindergarten, math, homeroom, recess, cafeteria, parent-teacher conference, field trip, substitute teacher, school psychologist, school district, school board, semester.\n- Dates as day month year. Keep abbreviations as the user wrote them; only expand one if you are certain what it stands for.\n- This is a draft. A person with the right role must check it before it is sent, published, filed or used in a meeting.\n- Do not invent pupils, staff, data, quotes, inspection grades, legal citations, medical details, costs or evidence. If a fact is missing, ask or write [NEED: ...].\n- Do not commit the school to actions, owners, dates or promises the user did not give. If you suggest any, label them as proposals for the user to decide.\n- Do not pretend to be Ofsted, DfE, a solicitor, a clinician or the school's data protection officer.\n- Only if the job touches safeguarding, HR, exclusions, complaints, FOI/SAR, EHCP or health: say so in one line at the top and keep the draft conservative. Otherwise do not mention it.\n- Prefer short sentences and words a tired colleague can use at 18:30.\n- If the pasted text names pupils, staff or families you do not need to name, use their role or initials instead. Do not assume anyone's gender: use the pronouns given, or \"they\".\n- Use plain headings and short lists, so the draft pastes cleanly into Word or Google Docs.\n- End with: Assumptions you made. What the user still needs to check. What should not be pasted into a public model (names, health, casework).\n\nHow to work:\n1. Read the school context block and everything pasted.\n2. If something essential is missing and no useful draft is possible without it, ask up to five sharp questions and stop. Otherwise write the draft now from what you have, and mark each gap where it falls as [NEED: ...].\n3. Follow the structure under Produce, if there is one.\n4. Before you finish, read the draft once more: change any American spelling or term to the British one (practise is the verb and practice the noun: \"practise your tables\"; term and half term, not semester), and take out anything that applies outside England.\n",
+    "stop": "\nSTOP. This job can become a pupil, staff or legal record.\nDo not run it on a public chat. A local model is still not the decision-maker.\nPaste the guidance named in the job, if there is any, and the facts you hold. If the facts are missing, ask. Do not draft the record from guesswork.\n"
+  },
+  "guidance_rule": "Use the edition the user pastes. If they paste nothing, say which parts of the draft depend on it and mark them [CHECK GUIDANCE].",
+  "kinds": {
+    "map": {
+      "label": "Scheme or curriculum map",
+      "produce": [
+        "A short overview: what it covers, for which pupils, over how long. If only part of the specification or curriculum was pasted, build from that part now.",
+        "A table by term and half term (autumn 1 and 2, spring 1 and 2, summer 1 and 2) or by week, labelled with the year group: unit, core knowledge, key vocabulary, what it builds on, assessment point.",
+        "Why the units are in this order, in three to five sentences.",
+        "Where earlier content is retrieved, and when assessment happens.",
+        "Risks: lessons that need a specialist, equipment, trips or fixed deadlines."
+      ],
+      "check": [
+        "Every unit traces to a line in the pasted specification or curriculum. Mark anything you could not trace [CHECK SPEC].",
+        "Grammar, vocabulary, texts, studies and practicals come only from what was pasted. Where nothing was pasted, the cell says [CHECK SPEC] instead of a guess.",
+        "Each year group's dates and exams are the ones the user gave for that year group.",
+        "The teaching time adds up to the time available.",
+        "Nothing from another subject, tier, board or key stage has crept in."
+      ]
+    },
+    "revision": {
+      "label": "Revision programme",
+      "produce": [
+        "A dated week-by-week table: focus, class task, home task, retrieval, exam practice. Weeks with no lessons, such as holidays, are shown as such, with optional home tasks only.",
+        "A pupil-facing list of topics, left blank for each pupil to rate red, amber or green.",
+        "What to drop or shorten if time runs out."
+      ],
+      "check": [
+        "Every paper and topic the user listed is covered before its exam, with the weakest areas given the most time.",
+        "Week dates run Monday to Friday, counted on from the dates the user gave, and nothing is timetabled in a holiday.",
+        "Paper titles, lengths, marks and question types only as given; otherwise [CHECK SPEC]. Timed practice allows the time the marks need, roughly a minute a mark unless the user says otherwise.",
+        "Case studies, named places and examples only as the user gave them; otherwise [NEED: the case study you taught].",
+        "Content comes only from the pasted specification or notes.",
+        "Home tasks are short and need no printer, paid resource or specialist adult."
+      ]
+    },
+    "lesson": {
+      "label": "Lesson or teaching sequence",
+      "produce": [
+        "The objective in one sentence, and how the teacher will know it landed.",
+        "Prior knowledge to check, with a quick question.",
+        "The explanation and modelling, with a worked example where it fits.",
+        "Guided practice, then independent practice.",
+        "Checks for understanding at named points.",
+        "Adaptations for the needs described, as scaffolds within the same task.",
+        "Timings for each part."
+      ],
+      "check": [
+        "The timings add up to the time available.",
+        "There is one clear objective, and every activity serves it.",
+        "Subject content is accurate and matches what was pasted. Mark anything you are unsure of [CHECK]."
+      ]
+    },
+    "resource": {
+      "label": "Classroom resource",
+      "produce": [
+        "The resource, ready to paste into a document or slide, with a title and pupil instructions.",
+        "Answers or a mark scheme on a separate block.",
+        "Two lines of teacher notes: when to use it and what to look for."
+      ],
+      "check": [
+        "Every answer is correct and comes from the pasted content.",
+        "The language suits the age and reading level given.",
+        "It fits the time available."
+      ]
+    },
+    "feedback": {
+      "label": "Feedback, comments or marking",
+      "produce": [
+        "What was done well, tied to the criteria or evidence.",
+        "The most important next step, phrased so the reader can act on it.",
+        "For a group: common strengths, the main misconceptions, and a reteach or next task."
+      ],
+      "check": [
+        "Every judgement points to something in the work, notes or criteria pasted.",
+        "No mark, grade or level the evidence does not support.",
+        "No comment generic enough to fit anyone."
+      ]
+    },
+    "message": {
+      "label": "Letter, email or message",
+      "produce": [
+        "A subject line or heading.",
+        "The point in the first two sentences, then the detail.",
+        "Exactly what the reader should do, and by when.",
+        "Placeholders for anything not supplied, such as [phone] or [date]."
+      ],
+      "check": [
+        "If it goes to families, a parent with a reading age of 9 to 11 can follow it, with no jargon or acronyms.",
+        "Dates, days and times agree with each other.",
+        "The tone asked for, and nothing that identifies another child or family."
+      ]
+    },
+    "copy": {
+      "label": "Published or public text",
+      "produce": [
+        "The text at the length asked, opening with what the reader most needs to know.",
+        "Headings and short paragraphs where it will be read on a screen."
+      ],
+      "check": [
+        "Every claim is backed by something the user supplied.",
+        "It sounds like this school, using its own words, with no stock phrases.",
+        "Nothing in it identifies a pupil without consent."
+      ]
+    },
+    "paper": {
+      "label": "Board, committee or decision paper",
+      "produce": [
+        "At the top: the purpose, and the decision or discussion needed.",
+        "A summary of no more than five lines.",
+        "The evidence and context, with every figure from the pasted material.",
+        "The options, each with benefits, risks and cost where known.",
+        "A recommendation only if one was asked for, and the questions the board should ask."
+      ],
+      "check": [
+        "Facts and judgements are kept apart.",
+        "It does not take a decision that belongs to the board, panel or head.",
+        "Every figure is traceable to what was pasted."
+      ]
+    },
+    "plan": {
+      "label": "Plan",
+      "produce": [
+        "Three to five priorities, each with why it matters here.",
+        "A table: action, owner (by role), start and end dates, cost or time, success measure, how and when it is checked.",
+        "What will stop or shrink to make room."
+      ],
+      "check": [
+        "Success measures can be observed or counted, not just \"improve\".",
+        "Owners are roles the school has, and dates fit the capacity described.",
+        "Nothing in it relies on data, funding or staff that were not mentioned."
+      ]
+    },
+    "policy": {
+      "label": "Policy, procedure or formal document",
+      "produce": [
+        "Purpose, scope and who it applies to.",
+        "Roles and responsibilities.",
+        "The procedure as numbered steps.",
+        "If it relies on statutory guidance: name it, and mark each point [CHECK GUIDANCE] unless the user pasted the current wording.",
+        "Review date and owner, as given, or [NEED: review date]."
+      ],
+      "check": [
+        "Every time, code, threshold and rule the user gave is in it.",
+        "It describes what this school actually does, not a generic model.",
+        "No legal requirement is stated as fact unless it came from the pasted guidance.",
+        "It is short enough for staff to follow."
+      ]
+    },
+    "record": {
+      "label": "Record or factual note",
+      "produce": [
+        "Who wrote it, for whom, and the date. If it records an event: when, where and who was there, as given.",
+        "What happened or what is known, in order, with exact words in quotation marks where given.",
+        "Actions already taken, and who was told and when, only as given in the notes.",
+        "Next steps and owners as given. Any other next step is marked as a proposal, with no invented date."
+      ],
+      "check": [
+        "Every sentence is fact, not opinion or speculation.",
+        "No diagnosis, motive, finding or conclusion is added.",
+        "No meeting, action, person or date appears that was not in the notes. Gaps are marked [NEED: ...] only where the reader needs them."
+      ]
+    },
+    "people": {
+      "label": "Staff or HR document",
+      "produce": [
+        "The structure the school's policy uses, or a clear one if none was given.",
+        "Each judgement linked to an objective, standard or piece of evidence.",
+        "Support offered, next steps and dates."
+      ],
+      "check": [
+        "It is fair, specific and could be read by the person, a union representative or a tribunal without surprise.",
+        "It follows the policy pasted and does not decide anything HR or the panel must decide.",
+        "Nothing about health, family or protected characteristics beyond what was supplied and needed."
+      ]
+    },
+    "brief": {
+      "label": "Briefing, checklist or run sheet",
+      "produce": [
+        "One page or less.",
+        "Numbered steps or a timed run sheet: who, what, when, where.",
+        "Who to contact, and what to do if something goes wrong."
+      ],
+      "check": [
+        "Every time, name, code and rule the user gave is in it.",
+        "Someone new to the task could follow it alone.",
+        "Names, times and places agree throughout.",
+        "Nothing important is buried in a paragraph."
+      ]
+    },
+    "analysis": {
+      "label": "Analysis or summary",
+      "produce": [
+        "The three to five things that matter most, first.",
+        "The evidence for each: a figure or a quoted line from what was pasted.",
+        "The questions it raises, and what the material cannot tell you."
+      ],
+      "check": [
+        "Every number and quotation is traceable to the pasted material.",
+        "Small groups and one-off figures are flagged rather than over-read.",
+        "No national or external comparison that was not supplied."
+      ]
+    },
+    "evaluation": {
+      "label": "Self-evaluation or evidence review",
+      "produce": [
+        "For each area: what the evidence shows, the evidence itself, and what is thin or missing.",
+        "Strengths and next steps, in plain language.",
+        "The evidence still to gather, and who could gather it."
+      ],
+      "check": [
+        "Every claim is matched to a piece of evidence that was supplied.",
+        "No predicted inspection grade or judgement wording the user did not ask for.",
+        "Thin areas are named honestly."
+      ]
+    },
+    "support": {
+      "label": "Support plan for a pupil or group",
+      "produce": [
+        "Strengths and interests, then needs, from what was given.",
+        "Outcomes that can be checked at the review: the plan's own wording where there is a plan, otherwise new outcomes marked as proposals.",
+        "Provision: what, who, how often, where.",
+        "The pupil's and family's views, in their words where given.",
+        "Review date and who reviews it, as given, or [NEED: review date]."
+      ],
+      "check": [
+        "No diagnosis, label or medical detail that was not supplied.",
+        "No target, figure or date that was not supplied, unless it is clearly marked as a proposal.",
+        "The pupil is referred to by initials and the pronouns given, or \"they\".",
+        "The provision is something this school can staff.",
+        "It is written so the pupil and family could read it."
+      ]
+    },
+    "conversation": {
+      "label": "Plan for a conversation",
+      "produce": [
+        "The purpose, in one sentence.",
+        "An opening line.",
+        "The facts to share, and the questions to ask.",
+        "Likely responses, and calm ways to answer them.",
+        "How to close with one agreed next step, and how it is recorded."
+      ],
+      "check": [
+        "It is curious rather than blaming, and sticks to facts.",
+        "It leaves room for the other person to be heard.",
+        "It follows any policy pasted, and does not promise what the school cannot give."
+      ]
+    },
+    "profile": {
+      "label": "Pupil profile or pen portrait",
+      "produce": [
+        "A few lines on who the pupil is: strengths, interests and what they enjoy.",
+        "Their needs, in plain words staff can act on.",
+        "What helps, and what to avoid.",
+        "The pupil's own words, quoted exactly, where given.",
+        "A key-need summary of two or three sentences."
+      ],
+      "check": [
+        "Everything comes from the plan or notes pasted. No targets, outcomes, provision or dates that were not given.",
+        "No diagnosis, need category or label beyond what the plan states.",
+        "The pupil is referred to by initials and the pronouns given, or \"they\".",
+        "A member of staff could read it in two minutes."
+      ]
+    },
+    "observation": {
+      "label": "Early years observation or note",
+      "produce": [
+        "What the child did and said, as observed.",
+        "What it shows about their learning in the area named.",
+        "The next step, and how adults will offer it in provision."
+      ],
+      "check": [
+        "Only what was seen or heard. No invented development bands, ages or diagnoses.",
+        "Warm, specific and readable by the family."
+      ]
+    },
+    "risk": {
+      "label": "Risk assessment",
+      "produce": [
+        "A table: hazard, who might be harmed and how, existing controls, further action, owner, by when, remaining risk.",
+        "Emergency arrangements and contacts.",
+        "Review date."
+      ],
+      "check": [
+        "Hazards are specific to this activity, site and group.",
+        "No invented codes, quantities, chemicals or medical protocols.",
+        "Remaining risk uses the school's own scale, or is left for the school to rate."
+      ]
+    },
+    "script": {
+      "label": "Script or talk",
+      "produce": [
+        "A script that can be read aloud in the time given, with rough timings.",
+        "A strong opening, one main idea, and a clear close.",
+        "Points for questions or interaction, if they fit."
+      ],
+      "check": [
+        "It fits the time at about 130 spoken words a minute.",
+        "It suits the age and audience.",
+        "Nothing in it singles out a pupil or family."
+      ]
+    },
+    "coach": {
+      "label": "Thinking partner",
+      "produce": [
+        "Ask one question at a time and wait for the answer.",
+        "Reflect back what you heard in a sentence before moving on.",
+        "End with a short summary: what was decided, the next step, and when to come back to it."
+      ],
+      "check": [
+        "The user's goal and voice stay theirs.",
+        "Nothing is offered as medical, legal or professional advice."
+      ]
+    }
+  },
+  "terms": {
+    "updated": "21 October 2026",
+    "summary": "Free-SchoolAI is free, provided as is, with no warranty and no support. It is not professional advice. Your school decides whether and how to use it, is responsible for that use and for every draft, and accepts the risk. To the fullest extent the law allows, Joshua Mangas accepts no liability.",
+    "sections": [
+      {
+        "heading": "Who this is from, and agreeing to these terms",
+        "body": [
+          "Free-SchoolAI is a free set of prompt templates and a static web page, made available by Joshua Mangas free of charge under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).",
+          "By using, downloading, installing or sharing Free-SchoolAI, you agree to these terms. If you do so for a school, trust or other organisation, you confirm you have authority to accept them on its behalf, and \"you\" means that organisation. If you do not agree, do not use it."
+        ]
+      },
+      {
+        "heading": "1. Provided as is",
+        "body": [
+          "Free-SchoolAI is provided \"as is\" and \"as available\", without warranties, conditions or representations of any kind, whether express or implied, including any about accuracy, completeness, being up to date, fitness for a particular purpose, security, or being free of errors or defects."
+        ]
+      },
+      {
+        "heading": "2. Not advice",
+        "body": [
+          "Nothing in Free-SchoolAI is legal, safeguarding, data protection, HR, employment, medical, financial, inspection, examination, educational or other professional advice, and it must not be relied on as such.",
+          "Free-SchoolAI is written for schools in England. It does not reflect the law or guidance in Wales, Scotland or Northern Ireland.",
+          "Guidance, frameworks and dates named in a prompt may have been changed or replaced. Always check the current official guidance and take professional advice where you need it."
+        ]
+      },
+      {
+        "heading": "3. Your decision and your responsibility",
+        "body": [
+          "You alone decide whether and how to use Free-SchoolAI, and you are solely responsible for that use. That includes: choosing, approving and configuring any AI tool; carrying out any data protection impact assessment and complying with data protection law, including the UK GDPR and the Data Protection Act 2018; meeting your safeguarding, equality, employment, record-keeping and other legal duties; deciding what staff may paste into any tool; training and supervising staff; and reading, checking, correcting and approving every draft before it is sent, published, filed, relied on or used in a meeting.",
+          "Jobs marked Record can become pupil, staff or legal records. They must only be used in a tool your organisation has approved for that purpose, and the person who owns the record remains responsible for it."
+        ]
+      },
+      {
+        "heading": "4. AI tools and their output",
+        "body": [
+          "A prompt cannot control what an AI tool produces. Output can be wrong, incomplete, out of date, biased, inappropriate or invented. Joshua Mangas does not provide, operate or control any AI tool and is not responsible for any tool, its output, its availability, or how its provider handles your data. Your use of any AI tool is governed by your agreement with its provider."
+        ]
+      },
+      {
+        "heading": "5. Installing it on your systems",
+        "body": [
+          "If you download Free-SchoolAI or install it on your own systems, you are responsible for reviewing the files before use, and for hosting, configuring, securing, maintaining, updating and removing them, and for any settings or prompts you add."
+        ]
+      },
+      {
+        "heading": "6. No support and no guarantee of availability",
+        "body": [
+          "There is no obligation to provide support, maintenance, updates or fixes, to answer questions, or to keep this website, the files or any download available. Any of them may change or be withdrawn at any time without notice."
+        ]
+      },
+      {
+        "heading": "7. Limitation of liability",
+        "body": [
+          "To the fullest extent permitted by law, Joshua Mangas will not be liable to you or anyone else for any loss, damage, cost or claim of any kind, whether direct, indirect or consequential, and whether arising in contract, tort (including negligence), breach of statutory duty or otherwise, arising out of or in connection with Free-SchoolAI, its use or inability to use it, or any output produced with it. This includes, without limitation, loss of or damage to data, loss of profit, revenue or savings, regulatory fines or penalties, reputational harm, and claims by pupils, parents, staff or other third parties.",
+          "You agree to use Free-SchoolAI at your own risk, and to indemnify Joshua Mangas against any claim brought by a third party arising from your use of it or of any output produced with it."
+        ]
+      },
+      {
+        "heading": "8. What these terms do not exclude",
+        "body": [
+          "Nothing in these terms excludes or limits any liability that cannot be excluded or limited under the law of England and Wales, such as liability for death or personal injury caused by negligence, or for fraud or fraudulent misrepresentation."
+        ]
+      },
+      {
+        "heading": "9. The licence",
+        "body": [
+          "The prompt text is licensed under CC BY 4.0, including its Section 5 disclaimer of warranties and limitation of liability, which applies alongside these terms. You may use, adapt and share it if you keep the credit: Free-SchoolAI by Joshua Mangas."
+        ]
+      },
+      {
+        "heading": "10. Not affiliated",
+        "body": [
+          "Free-SchoolAI is independent. It is not connected with or endorsed by the Department for Education, Ofsted, any awarding body, local authority or diocese, or any AI provider, and it is not the DfE free school programme or the commercial product SchoolAI. Product names are used only to describe where the library can run, and belong to their owners."
+        ]
+      },
+      {
+        "heading": "11. General",
+        "body": [
+          "If any part of these terms is found unenforceable, the rest still applies. These terms may be updated at any time; the version on this page applies from the date shown. These terms are governed by the law of England and Wales, and the courts of England and Wales have exclusive jurisdiction."
+        ]
+      }
+    ]
+  },
+  "safety": {
+    "updated": "21 October 2026",
+    "lead": "A straight answer for staff, leaders and data protection officers in schools in England.",
+    "short": "Free-SchoolAI is reliable as a quick way to get a well-structured first draft. It is not reliable as a source of facts, figures or legal requirements, and it never makes a decision. A person with the right role checks every draft before it is used. Every prompt says so.",
+    "sections": [
+      {
+        "heading": "What it is reliable for",
+        "items": [
+          "Drafts built from what you give it: a letter or newsletter from your facts, a summary of a paper you paste, a survey write-up from your figures, a classroom resource from your content, notes and procedures from your notes.",
+          "A consistent shape. Every job sets out what the draft must contain and the checks the model runs before it hands it over.",
+          "Marking gaps instead of guessing. Missing facts come back as [NEED: ...], and anything that depends on guidance you did not paste comes back as [CHECK GUIDANCE] or [CHECK SPEC].",
+          "Flagging the jobs that can become a pupil, staff or legal record, so they stay in a tool your school controls."
+        ]
+      },
+      {
+        "heading": "What it is not reliable for",
+        "intro": "Check these yourself, every time:",
+        "items": [
+          "Facts the model has to remember: statutory deadlines, attendance codes, exam specifications, dates and weekdays, case studies.",
+          "Figures. A model can invent a number even when told not to, and asking it to check its own work does not reliably catch it. Check every figure against your source.",
+          "Names, owners, dates and promises the school has not agreed.",
+          "Decisions. It never decides an exclusion, a safeguarding referral, a capability outcome or a grade. The person who owns that decision does."
+        ]
+      },
+      {
+        "heading": "How it was tested",
+        "items": [
+          "Jobs drawn at random from every shelf were filled in for two fictional schools and run on a small, free model on an ordinary desktop computer, with nothing sent anywhere. That is a harder test than the larger tools most schools use.",
+          "Each draft was read against what its own prompt asked for, and every fault was traced to its cause. Faults in the prompts were fixed and the jobs run again, forty drafts in all.",
+          "After the fixes every draft was usable, most after some editing, and none needed starting again. The errors that remained are the ones listed above, which is why the rules below exist.",
+          "The guidance named in the prompts was checked against published sources on 20 October 2026. Each job links to the publisher's page, so you always fetch the current edition."
+        ]
+      },
+      {
+        "heading": "Use it safely",
+        "numbered": true,
+        "items": [
+          "Use the AI tool your school has approved, for the purposes it approved. Public chats are only for work with no personal data in it.",
+          "Run jobs marked Record only in that approved tool. The person who owns the record decides what it says.",
+          "Paste the source: the guidance named on the job, the specification, your notes or data. A draft is only as good as what you give it.",
+          "Keep names out where you can. Initials and roles are enough for a draft.",
+          "Resolve every [NEED] and [CHECK] mark before the draft goes anywhere.",
+          "Check every figure, date, name and rule against your source yourself.",
+          "A person with the right role reads and signs off the draft before it is sent, published, filed or used in a meeting."
+        ]
+      },
+      {
+        "heading": "Signs a draft is not ready",
+        "items": [
+          "It states a deadline, code or rule you did not paste.",
+          "It contains a figure you cannot find in your source.",
+          "It names a person, owner or date nobody agreed.",
+          "It uses American terms, or refers to the rules in Wales, Scotland or Northern Ireland.",
+          "It decides something a person must decide."
+        ]
+      },
+      {
+        "heading": "For leaders and data protection officers",
+        "intro": "Before staff use it:",
+        "items": [
+          "Decide which AI tool staff may use and for what, and whether that tool needs a data protection impact assessment.",
+          "Decide where Record jobs may be run, and tell your DSL and HR lead.",
+          "Give staff the seven rules above. They take two minutes to read.",
+          "Review it once a year. Statutory guidance changes, most years in September."
+        ],
+        "outro": "Free-SchoolAI is free, provided as is, with no warranty and no support. Your school decides whether and how to use it."
+      }
+    ]
+  },
+  "guidance_checked": "20 October 2026"
+}

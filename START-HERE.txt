@@ -1,0 +1,43 @@
+FREE-SCHOOLAI FOR YOUR STAFF INTRANET
+Start here.
+
+Free-SchoolAI is a free library of 655 prompts for school staff in England, as a web page
+your IT team can host. No server code, no sign-in, no calls to anywhere else.
+
+BEFORE YOU USE IT
+Read USING-IT-SAFELY.md: what the library is reliable for, and seven rules for staff.
+Read TERMS.txt. Free-SchoolAI is provided as is, with no warranty and no support.
+Your school decides whether and how to use it and is responsible for that use and
+for every draft. By using it you accept those terms for your school.
+
+TRY IT NOW
+Open free-schoolai.html in Edge or Chrome. That one file is the whole library.
+
+SET IT UP FOR YOUR SCHOOL (IT TEAM)
+1. Copy library/config.example.js to library/config.js.
+2. Edit library/config.js: your school's details, the AI tool staff should use,
+   what to do with jobs marked Record, shelves to hide, your own prompts.
+3. Put the library folder on a web server staff can reach, then link to
+   library/index.html from your intranet. For SharePoint, Teams, Google Sites or a
+   shared drive, see INTRANET.md.
+4. Tell staff where it is, which AI tool to use, and that a person with the right
+   role checks every draft before it is used.
+
+For the one-file version, edit the FSAI_CONFIG block near the top of
+free-schoolai.html instead of config.js.
+
+BEFORE YOU SWITCH IT ON
+- Agree with your data protection officer which AI tool staff may use, and for what.
+- Decide whether a data protection impact assessment is needed for that tool.
+- Decide what happens with jobs marked Record, and tell your DSL and HR lead.
+
+WHAT IS IN THIS FOLDER
+free-schoolai.html   The whole library in one file.
+library/             The library as a folder, for a web server.
+INTRANET.md          The full guide for your IT team.
+USING-IT-SAFELY.md   How reliable it is, and how staff use it safely.
+TERMS.txt            Terms of use and disclaimer (also DISCLAIMER.md).
+LICENSE, NOTICE      CC BY 4.0. Keep the credit: Free-SchoolAI by Joshua Mangas.
+
+Updates and the full source: https://github.com/Vicariouso/Free-SchoolAI
+Online version: https://joshuamangas.com/free-school-ai/
