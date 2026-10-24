@@ -40,4 +40,4 @@ TERMS.txt            Terms of use and disclaimer (also DISCLAIMER.md).
 LICENSE, NOTICE      CC BY 4.0. Keep the credit: School Prompts by Joshua Mangas.
 
 Updates and the full source: https://github.com/Vicariouso/school-prompts
-Online version: https://joshuamangas.com/free-school-ai/
+Online version: https://joshuamangas.com/school-prompts/

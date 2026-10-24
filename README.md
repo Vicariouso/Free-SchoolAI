@@ -4,7 +4,7 @@ Free prompts for school staff in England. It was called Free-SchoolAI until Octo
 
 655 jobs. Early years through sixth form, plus SEND, leadership, the office and the board. The jobs are in this repo, as plain text.
 
-Use it online, with a page for every job: https://joshuamangas.com/free-school-ai/
+Use it online, with a page for every job: https://joshuamangas.com/school-prompts/
 
 ## Put it on your school intranet
 
