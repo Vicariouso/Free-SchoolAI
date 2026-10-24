@@ -44,7 +44,7 @@ def single_file(data: str) -> str:
         page = page.replace(tag, "<script>\n" + code.replace("</script", "<\\/script") + "</script>")
     icon = (LIB / "icon.svg").read_text().strip().replace("#", "%23").replace('"', "'")
     page = page.replace('href="icon.svg"', 'href="data:image/svg+xml,' + icon + '"')
-    note = "<!-- Free-SchoolAI, one-file version. Edit the FSAI_CONFIG block below for your school. -->\n"
+    note = "<!-- School Prompts, one-file version. Edit the FSAI_CONFIG block below for your school. -->\n"
     return page.replace("<!doctype html>\n", "<!doctype html>\n" + note, 1)
 
 

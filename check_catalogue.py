@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fail if the Free-SchoolAI catalogue drifts."""
+"""Fail if the School Prompts catalogue drifts."""
 import json, subprocess, sys
 from pathlib import Path
 

@@ -1,5 +1,5 @@
 /*
-  Free-SchoolAI settings for your school.
+  School Prompts settings for your school.
 
   Copy this file to config.js (in the same folder) and edit it. Your config.js
   is never overwritten when you update the library. Everything is optional:

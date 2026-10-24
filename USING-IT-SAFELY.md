@@ -1,10 +1,10 @@
-# Using Free-SchoolAI safely
+# Using School Prompts safely
 
-Last updated 21 October 2026.
+Last updated 22 October 2026.
 
 A straight answer for staff, leaders and data protection officers in schools in England.
 
-**The short answer:** Free-SchoolAI is reliable as a quick way to get a well-structured first draft. It is not reliable as a source of facts, figures or legal requirements, and it never makes a decision. A person with the right role checks every draft before it is used. Every prompt says so.
+**The short answer:** School Prompts is reliable as a quick way to get a well-structured first draft. It is not reliable as a source of facts, figures or legal requirements, and it never makes a decision. A person with the right role checks every draft before it is used. Every prompt says so.
 
 ## What it is reliable for
 
@@ -56,6 +56,6 @@ Before staff use it:
 - Give staff the seven rules above. They take two minutes to read.
 - Review it once a year. Statutory guidance changes, most years in September.
 
-Free-SchoolAI is free, provided as is, with no warranty and no support. Your school decides whether and how to use it.
+School Prompts is free, provided as is, with no warranty and no support. Your school decides whether and how to use it.
 
 Terms of use and disclaimer: [DISCLAIMER.md](DISCLAIMER.md).

@@ -1,12 +1,12 @@
-FREE-SCHOOLAI FOR YOUR STAFF INTRANET
+SCHOOL PROMPTS FOR YOUR STAFF INTRANET
 Start here.
 
-Free-SchoolAI is a free library of 655 prompts for school staff in England, as a web page
+School Prompts is a free library of 655 prompts for school staff in England, as a web page
 your IT team can host. No server code, no sign-in, no calls to anywhere else.
 
 BEFORE YOU USE IT
 Read USING-IT-SAFELY.md: what the library is reliable for, and seven rules for staff.
-Read TERMS.txt. Free-SchoolAI is provided as is, with no warranty and no support.
+Read TERMS.txt. School Prompts is provided as is, with no warranty and no support.
 Your school decides whether and how to use it and is responsible for that use and
 for every draft. By using it you accept those terms for your school.
 
@@ -37,7 +37,7 @@ library/             The library as a folder, for a web server.
 INTRANET.md          The full guide for your IT team.
 USING-IT-SAFELY.md   How reliable it is, and how staff use it safely.
 TERMS.txt            Terms of use and disclaimer (also DISCLAIMER.md).
-LICENSE, NOTICE      CC BY 4.0. Keep the credit: Free-SchoolAI by Joshua Mangas.
+LICENSE, NOTICE      CC BY 4.0. Keep the credit: School Prompts by Joshua Mangas.
 
-Updates and the full source: https://github.com/Vicariouso/Free-SchoolAI
+Updates and the full source: https://github.com/Vicariouso/school-prompts
 Online version: https://joshuamangas.com/free-school-ai/

@@ -1,8 +1,8 @@
-# Putting Free-SchoolAI on your school intranet
+# Putting School Prompts on your school intranet
 
 For the IT team of a school or trust in England. It takes about ten minutes.
 
-Read [Using it safely](USING-IT-SAFELY.md) and the [terms of use and disclaimer](DISCLAIMER.md) first. Free-SchoolAI is provided as is, with no warranty and no support, and your school is responsible for how it is used. Installing it means your school accepts those terms.
+Read [Using it safely](USING-IT-SAFELY.md) and the [terms of use and disclaimer](DISCLAIMER.md) first. School Prompts is provided as is, with no warranty and no support, and your school is responsible for how it is used. Installing it means your school accepts those terms.
 
 The library is a static web page: HTML, CSS and JavaScript in one folder. There is no server code, no database, no sign-in, no build step and no calls to anywhere else. Staff details stay in each browser's local storage. You can read every line before you install it.
 
@@ -17,7 +17,7 @@ Staff can search all 655 jobs, browse by shelf or by moment in the school year, 
 ## 1. Get the files
 
 ```
-git clone https://github.com/Vicariouso/Free-SchoolAI.git
+git clone https://github.com/Vicariouso/school-prompts.git
 ```
 
 Or use **Code → Download ZIP** on GitHub.
@@ -103,6 +103,8 @@ git pull
 
 Then copy the `library` folder to the server again. Your `config.js` is kept. Check the `catalogue.json` history on GitHub to see what changed.
 
+School Prompts was called Free-SchoolAI until October 2026. An existing install updates in the same way: the old GitHub address forwards to this one.
+
 ## Changing the catalogue
 
 You can also edit `catalogue.json` directly, for example to reword a job. Then rebuild:
@@ -119,6 +121,6 @@ The full [terms of use and disclaimer](DISCLAIMER.md) are also in every page foo
 
 ## Licence and credit
 
-[CC BY 4.0](LICENSE). Use it, change it, keep the credit: Free-SchoolAI by Joshua Mangas. The credit line in the page footer covers this; please leave it in.
+[CC BY 4.0](LICENSE). Use it, change it, keep the credit: School Prompts by Joshua Mangas. The credit line in the page footer covers this; please leave it in.
 
 These prompts write drafts. They do not hold a duty, sit on a board, or sign a reference. A person with the right role checks every draft before it is sent, filed or used in a meeting.

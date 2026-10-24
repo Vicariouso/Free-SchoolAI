@@ -1,4 +1,4 @@
-/* Free-SchoolAI library for a school intranet.
+/* School Prompts library for a school intranet.
    No server, no network calls, no cookies. Staff details live in this browser's
    localStorage only. Everything is built with DOM calls, never innerHTML. */
 (function () {

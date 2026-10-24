@@ -1,6 +1,6 @@
-# Free-SchoolAI
+# School Prompts
 
-Free prompts for school staff in England. Not the DfE free school programme. Not the commercial product SchoolAI. Just the price.
+Free prompts for school staff in England. It was called Free-SchoolAI until October 2026.
 
 655 jobs. Early years through sixth form, plus SEND, leadership, the office and the board. The jobs are in this repo, as plain text.
 
@@ -41,11 +41,11 @@ What the library is reliable for, what it is not, how it was tested, and seven r
 
 ## Terms of use
 
-Free-SchoolAI is provided as is, with no warranty and no support. It is not professional advice. Your school decides whether and how to use it and is responsible for that use and for every draft. Read the full [terms of use and disclaimer](DISCLAIMER.md).
+School Prompts is provided as is, with no warranty and no support. It is not professional advice. Your school decides whether and how to use it and is responsible for that use and for every draft. Read the full [terms of use and disclaimer](DISCLAIMER.md).
 
 ## What the licence covers
 
-[CC BY 4.0](LICENSE). The licence covers the prompt text in this repo. Use it. Change it. Keep the credit: Free-SchoolAI by Joshua Mangas.
+[CC BY 4.0](LICENSE). The licence covers the prompt text in this repo. Use it. Change it. Keep the credit: School Prompts by Joshua Mangas.
 
 The licence does not cover a school's finished letter, a pupil record, or documents you paste in. Those stay yours.
 

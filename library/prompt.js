@@ -1,4 +1,4 @@
-/* Free-SchoolAI: builds a prompt from a job, the school profile and this job's answers.
+/* School Prompts: builds a prompt from a job, the school profile and this job's answers.
    Plain script, no modules, so the library also runs from a shared drive. */
 (function (root) {
   "use strict";

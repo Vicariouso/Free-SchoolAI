@@ -1,30 +1,30 @@
-# Free-SchoolAI: terms of use and disclaimer
+# School Prompts: terms of use and disclaimer
 
-Last updated 21 October 2026.
+Last updated 22 October 2026.
 
-**In short:** Free-SchoolAI is free, provided as is, with no warranty and no support. It is not professional advice. Your school decides whether and how to use it, is responsible for that use and for every draft, and accepts the risk. To the fullest extent the law allows, Joshua Mangas accepts no liability.
+**In short:** School Prompts is free, provided as is, with no warranty and no support. It is not professional advice. Your school decides whether and how to use it, is responsible for that use and for every draft, and accepts the risk. To the fullest extent the law allows, Joshua Mangas accepts no liability.
 
 ## Who this is from, and agreeing to these terms
 
-Free-SchoolAI is a free set of prompt templates and a static web page, made available by Joshua Mangas free of charge under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+School Prompts is a free set of prompt templates and a static web page, made available by Joshua Mangas free of charge under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
 
-By using, downloading, installing or sharing Free-SchoolAI, you agree to these terms. If you do so for a school, trust or other organisation, you confirm you have authority to accept them on its behalf, and "you" means that organisation. If you do not agree, do not use it.
+By using, downloading, installing or sharing School Prompts, you agree to these terms. If you do so for a school, trust or other organisation, you confirm you have authority to accept them on its behalf, and "you" means that organisation. If you do not agree, do not use it.
 
 ## 1. Provided as is
 
-Free-SchoolAI is provided "as is" and "as available", without warranties, conditions or representations of any kind, whether express or implied, including any about accuracy, completeness, being up to date, fitness for a particular purpose, security, or being free of errors or defects.
+School Prompts is provided "as is" and "as available", without warranties, conditions or representations of any kind, whether express or implied, including any about accuracy, completeness, being up to date, fitness for a particular purpose, security, or being free of errors or defects.
 
 ## 2. Not advice
 
-Nothing in Free-SchoolAI is legal, safeguarding, data protection, HR, employment, medical, financial, inspection, examination, educational or other professional advice, and it must not be relied on as such.
+Nothing in School Prompts is legal, safeguarding, data protection, HR, employment, medical, financial, inspection, examination, educational or other professional advice, and it must not be relied on as such.
 
-Free-SchoolAI is written for schools in England. It does not reflect the law or guidance in Wales, Scotland or Northern Ireland.
+School Prompts is written for schools in England. It does not reflect the law or guidance in Wales, Scotland or Northern Ireland.
 
 Guidance, frameworks and dates named in a prompt may have been changed or replaced. Always check the current official guidance and take professional advice where you need it.
 
 ## 3. Your decision and your responsibility
 
-You alone decide whether and how to use Free-SchoolAI, and you are solely responsible for that use. That includes: choosing, approving and configuring any AI tool; carrying out any data protection impact assessment and complying with data protection law, including the UK GDPR and the Data Protection Act 2018; meeting your safeguarding, equality, employment, record-keeping and other legal duties; deciding what staff may paste into any tool; training and supervising staff; and reading, checking, correcting and approving every draft before it is sent, published, filed, relied on or used in a meeting.
+You alone decide whether and how to use School Prompts, and you are solely responsible for that use. That includes: choosing, approving and configuring any AI tool; carrying out any data protection impact assessment and complying with data protection law, including the UK GDPR and the Data Protection Act 2018; meeting your safeguarding, equality, employment, record-keeping and other legal duties; deciding what staff may paste into any tool; training and supervising staff; and reading, checking, correcting and approving every draft before it is sent, published, filed, relied on or used in a meeting.
 
 Jobs marked Record can become pupil, staff or legal records. They must only be used in a tool your organisation has approved for that purpose, and the person who owns the record remains responsible for it.
 
@@ -34,7 +34,7 @@ A prompt cannot control what an AI tool produces. Output can be wrong, incomplet
 
 ## 5. Installing it on your systems
 
-If you download Free-SchoolAI or install it on your own systems, you are responsible for reviewing the files before use, and for hosting, configuring, securing, maintaining, updating and removing them, and for any settings or prompts you add.
+If you download School Prompts or install it on your own systems, you are responsible for reviewing the files before use, and for hosting, configuring, securing, maintaining, updating and removing them, and for any settings or prompts you add.
 
 ## 6. No support and no guarantee of availability
 
@@ -42,9 +42,9 @@ There is no obligation to provide support, maintenance, updates or fixes, to ans
 
 ## 7. Limitation of liability
 
-To the fullest extent permitted by law, Joshua Mangas will not be liable to you or anyone else for any loss, damage, cost or claim of any kind, whether direct, indirect or consequential, and whether arising in contract, tort (including negligence), breach of statutory duty or otherwise, arising out of or in connection with Free-SchoolAI, its use or inability to use it, or any output produced with it. This includes, without limitation, loss of or damage to data, loss of profit, revenue or savings, regulatory fines or penalties, reputational harm, and claims by pupils, parents, staff or other third parties.
+To the fullest extent permitted by law, Joshua Mangas will not be liable to you or anyone else for any loss, damage, cost or claim of any kind, whether direct, indirect or consequential, and whether arising in contract, tort (including negligence), breach of statutory duty or otherwise, arising out of or in connection with School Prompts, its use or inability to use it, or any output produced with it. This includes, without limitation, loss of or damage to data, loss of profit, revenue or savings, regulatory fines or penalties, reputational harm, and claims by pupils, parents, staff or other third parties.
 
-You agree to use Free-SchoolAI at your own risk, and to indemnify Joshua Mangas against any claim brought by a third party arising from your use of it or of any output produced with it.
+You agree to use School Prompts at your own risk, and to indemnify Joshua Mangas against any claim brought by a third party arising from your use of it or of any output produced with it.
 
 ## 8. What these terms do not exclude
 
@@ -52,11 +52,11 @@ Nothing in these terms excludes or limits any liability that cannot be excluded 
 
 ## 9. The licence
 
-The prompt text is licensed under CC BY 4.0, including its Section 5 disclaimer of warranties and limitation of liability, which applies alongside these terms. You may use, adapt and share it if you keep the credit: Free-SchoolAI by Joshua Mangas.
+The prompt text is licensed under CC BY 4.0, including its Section 5 disclaimer of warranties and limitation of liability, which applies alongside these terms. You may use, adapt and share it if you keep the credit: School Prompts by Joshua Mangas.
 
 ## 10. Not affiliated
 
-Free-SchoolAI is independent. It is not connected with or endorsed by the Department for Education, Ofsted, any awarding body, local authority or diocese, or any AI provider, and it is not the DfE free school programme or the commercial product SchoolAI. Product names are used only to describe where the library can run, and belong to their owners.
+School Prompts is independent. It is not connected with or endorsed by the Department for Education, Ofsted, any awarding body, local authority or diocese, or any AI provider. Product names are used only to describe where the library can run, and belong to their owners.
 
 ## 11. General
 
